@@ -412,7 +412,7 @@ footer {
 }
 #Bottom a:hover,#Bottom a:focus {
   border-width: 0;
-  border-color: rgba(111,233,222,0.5);
+  border-color: rgba(66,202,254,0.5);
   -webkit-transition-duration: 0.5s;
   -moz-transition-duration: 0.5s;
   -ms-transition-duration: 0.5s;
@@ -481,4 +481,8 @@ footer {
     right: 60px;
     opacity: 1;
   }
+}
+#Diablo {
+  font-style: italic;
+  color: #42CAFE;
 }
